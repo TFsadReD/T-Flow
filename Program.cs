@@ -2,6 +2,6 @@
 {
     public static void Main()
     {
-        Console.WriteLine("test");
+        Console.WriteLine("new test");
     }
 }
